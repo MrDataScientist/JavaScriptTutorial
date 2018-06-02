@@ -3,6 +3,7 @@ JavaScriptTutorial
 
 Learn JavaScript in this online video tutorial series voering beginner and intermediate JavaScript concepts and methods. Accio Code goes from the very basics of setting up your files to writing functions in JavaScript to control your web page.
 
+
 ## What is JavaScript ##
 
 One of the most popular scripting languages for the web, JavaScript can enhance basic html web pages into interactive applications. 
